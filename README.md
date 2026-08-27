@@ -2,20 +2,16 @@
 
 ### 💻 Full Stack Developer | 🤖 AI/ML Enthusiast | 🚀 Building Real-World Projects
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI%2FML+Enthusiast;JavaScript+Developer;Always+Learning+%26+Building+%F0%9F%9A%80" />
-</p>
-
 ---
 
 ## 🧑‍💻 About Me
 
-* 🔭 Currently working on **Full Stack & AI/ML Projects**
-* 🌱 Exploring **Artificial Intelligence & Machine Learning**
-* 💻 Building applications using **React, Node.js & Java**
-* 🧠 Practicing **DSA & Problem Solving**
-* ☁️ Working with **Vercel & Render**
-* 🚀 Always learning and building something new
+- 🔭 Currently working on **Full Stack & AI/ML Projects**
+- 🌱 Exploring **Artificial Intelligence & Machine Learning**
+- 💻 Building applications using **React, Node.js & Java**
+- 🧠 Practicing **DSA & Problem Solving**
+- ☁️ Working with **Vercel & Render**
+- 🚀 Always learning and building something new
 
 ---
 
@@ -24,32 +20,63 @@
 ### 💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=javascript,java,python,html,css" />
+  <img src="https://skillicons.dev/icons?i=javascript" width="50"/>
+  <img src="https://skillicons.dev/icons?i=java" width="50"/>
+  <img src="https://skillicons.dev/icons?i=python" width="50"/>
+  <img src="https://skillicons.dev/icons?i=html" width="50"/>
+  <img src="https://skillicons.dev/icons?i=css" width="50"/>
 </p>
+
+**JavaScript • Java • Python • HTML • CSS**
 
 ### ⚛️ Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,javascript" />
+  <img src="https://skillicons.dev/icons?i=react" width="50"/>
+  <img src="https://skillicons.dev/icons?i=html" width="50"/>
+  <img src="https://skillicons.dev/icons?i=css" width="50"/>
 </p>
+
+**React • HTML • CSS**
 
 ### ⚙️ Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,java" />
+  <img src="https://skillicons.dev/icons?i=nodejs" width="50"/>
+  <img src="https://skillicons.dev/icons?i=express" width="50"/>
+  <img src="https://skillicons.dev/icons?i=java" width="50"/>
 </p>
+
+**Node.js • Express.js • Java**
 
 ### 🗄️ Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=mongodb" width="50"/>
+  <img src="https://skillicons.dev/icons?i=mysql" width="50"/>
 </p>
+
+**MongoDB • MySQL**
+
+### 🤖 AI / ML
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" width="50"/>
+</p>
+
+**Python • Machine Learning • Artificial Intelligence**
 
 ### ☁️ Tools & Deployment
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,vercel" />
+  <img src="https://skillicons.dev/icons?i=git" width="50"/>
+  <img src="https://skillicons.dev/icons?i=github" width="50"/>
+  <img src="https://skillicons.dev/icons?i=vscode" width="50"/>
+  <img src="https://skillicons.dev/icons?i=docker" width="50"/>
+  <img src="https://skillicons.dev/icons?i=vercel" width="50"/>
 </p>
+
+**Git • GitHub • VS Code • Docker • Vercel • Render**
 
 ---
 
@@ -107,7 +134,7 @@ Collection of my DSA and problem-solving solutions.
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=atharva635&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=atharva635&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -115,7 +142,7 @@ Collection of my DSA and problem-solving solutions.
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=atharva635&theme=tokyonight&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=atharva635&theme=tokyonight&no-frame=true&margin-w=10"/>
 </p>
 
 ---
@@ -123,7 +150,7 @@ Collection of my DSA and problem-solving solutions.
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/atharva635/atharva635/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/atharva635/atharva635/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
@@ -142,27 +169,3 @@ Collection of my DSA and problem-solving solutions.
 🧠 DSA & Problem Solving
         ↓
 🔥 Keep Learning & Building
-```
-
----
-
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/atharva635">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:atharvagupta00001@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <b>⭐ Thanks for visiting my profile!</b>
-</p>
-
-<p align="center">
-  <i>Code. Learn. Build. Repeat. 🚀</i>
-</p>
